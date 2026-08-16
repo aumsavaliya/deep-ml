@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:51:47.034Z",
+  "generated_at": "2026-10-28T03:57:19.902Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -255,6 +255,19 @@
       "path": "math/0130-why-minibatches-gradient-variance-vs-batch-size",
       "first_solved_at": "2026-10-27T12:51:46.136Z",
       "last_pushed_at": "2026-10-27T12:51:46.136Z"
+    },
+    "problem:237": {
+      "kind": "problem",
+      "id": "237",
+      "title": "Convert RGB Image to Grayscale",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/237",
+      "path": "problems/0237-convert-rgb-image-to-grayscale",
+      "first_solved_at": "2026-08-16T17:24:06.737Z",
+      "last_pushed_at": "2026-08-16T17:24:06.737Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
