@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:57:27.669Z",
+  "generated_at": "2026-10-28T03:57:29.514Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -333,6 +333,115 @@
       "last_pushed_at": "2026-08-22T23:38:35.463Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-08-30T05:33:54.951Z",
+      "last_pushed_at": "2026-08-30T05:33:54.951Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-08-30T05:38:38.261Z",
+      "last_pushed_at": "2026-08-30T05:38:38.261Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-08-30T05:42:29.085Z",
+      "last_pushed_at": "2026-08-30T05:42:29.085Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-08-30T05:59:24.209Z",
+      "last_pushed_at": "2026-08-30T05:59:24.209Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-08-30T06:19:15.697Z",
+      "last_pushed_at": "2026-08-30T06:19:15.697Z",
+      "language": "python",
+      "lines": 13
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-08-30T17:04:28.113Z",
+      "last_pushed_at": "2026-08-30T17:04:28.113Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-08-30T17:17:07.690Z",
+      "last_pushed_at": "2026-08-30T17:17:07.690Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-08-30T17:19:30.317Z",
+      "last_pushed_at": "2026-08-30T17:19:30.317Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-08-30T18:12:45.779Z",
+      "last_pushed_at": "2026-08-30T18:12:45.779Z"
     }
   }
 }

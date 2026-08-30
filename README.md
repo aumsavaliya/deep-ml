@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 18 problems · 0 labs · 9 math
+**36** solved · 23 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-25 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-30 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-08-16 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-27 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-24 | [solution](problems/0083-dot-product-calculator) |
@@ -21,12 +22,16 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-08-18 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-08-18 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-20 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-30 | [solution](problems/0003-reshape-matrix) |
+| [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-30 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-22 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-30 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-27 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-25 | [solution](problems/0334-cholesky-decomposition) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-25 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-08-19 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-25 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
+| [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-30 | [solution](problems/0007-matrix-transformation) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-27 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-10-26 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-26 | [solution](problems/0201-qr-decomposition) |
@@ -35,10 +40,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-08-30 | [solution](math/0001-derivatives-and-gradients) |
+| [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-08-30 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-24 | [solution](math/0009-matrix-basics) |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-30 | [solution](math/0030-ml-workflow-basics) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-24 | [solution](math/0007-vector-operations) |
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-27 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-25 | [solution](math/0012-inverse-and-rank) |
+| [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-08-30 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-24 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-26 | [solution](math/0002-multivariate-calculus) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-25 | [solution](math/0014-orthogonality-and-projections) |
